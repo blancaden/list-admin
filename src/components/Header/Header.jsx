@@ -1,20 +1,20 @@
-
 import React from 'react'
-
+import './Header.css'
 
 const Header = () => {
   return (
     <>
 
    <header>
-        <section class="nav-bar">
+        <section className="nav-bar">
 
-            <figure class="img-content">
-                <img src="img-logo/logo-ico.ico" alt="">
+            <figure className="img-content">
+             
+                <img src="img/logo-ico.ico" alt="" />
             </figure>
 
-            <nav class="nav-content">
-                <button class="btn-log" id="logoutButton" type="button">Logout</button> 
+            <nav className="nav-content">
+                <button className="btn-log" id="logoutButton" type="button">Logout</button> 
             </nav>
             
         </section>
