@@ -1,7 +1,7 @@
 import React from 'react'
 import './Header.css'
 
-const Header = () => {
+const Header = ({ isLogoutVisible  }) => {
   return (
     <>
 
@@ -14,8 +14,12 @@ const Header = () => {
             </figure>
 
             <nav className="nav-content">
-                <button className="btn-log" id="logoutButton" type="button">Logout</button> 
-            </nav>
+            {isLogoutVisible && (
+              <button className="btn-log" id="logoutButton" type="button">
+                Logout
+              </button>
+            )}
+          </nav>
             
         </section>
     </header>
