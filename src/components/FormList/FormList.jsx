@@ -60,7 +60,7 @@ const FormList = () => {
           // onKeyPress={(event) => validateKey(event)}
           />
           </div>
-          <div>
+          <div className='rol_content'> 
           <label htmlFor="txt_rol" >Rol</label>
           <Select
             name="rol"
