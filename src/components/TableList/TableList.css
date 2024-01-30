@@ -1,0 +1,18 @@
+
+.seccion_datos{
+    
+    margin-top: 20px;
+    
+}
+.tablaDatos{
+  
+    background-color: #5584AC;
+}
+
+.tablaHead tr th{
+    width: 90px;
+    padding: 5px;
+    border: 2px solid white;
+}
+
+

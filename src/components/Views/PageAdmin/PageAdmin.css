@@ -4,3 +4,8 @@
 
 
 
+.page_body{
+   display: grid;
+   grid-template-columns: 1fr 2fr;  
+  
+}
