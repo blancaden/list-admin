@@ -1,7 +1,6 @@
 
 import React from 'react'
 import FormList from '../../FormList/FormList'
-import TableList from '../../TableList/TableList'
 import '../PageAdmin/PageAdmin.css'
 
 const PageAdmin = () => {
@@ -9,7 +8,6 @@ const PageAdmin = () => {
     < main className='page_body'>
     
       <FormList />
-      <TableList />
       
     </main>
   )

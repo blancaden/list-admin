@@ -10,9 +10,12 @@
 }
 
 .tablaHead tr th{
-    width: 90px;
-    padding: 5px;
+    width: 70px;
+    padding: 6px 8px 3px 29px;
     border: 2px solid white;
+}
+ #celdaEmail{
+    width: 150px;
 }
 
 

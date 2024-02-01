@@ -17,6 +17,7 @@ const TableList = () => {
             <th name="celdaClase" id="celdaCurso">Curso</th>
             <th name="celdaClase" id="celdaClase">Clase</th>
             <th name="celdaEmail" id="celdaEmail">Email</th>
+            <th name="celdaAcciones" id="celdaEmail">Acciones</th>
             
           </tr>
         </thead>
