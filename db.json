@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Pepa",
+      "surname1": "Pig",
+      "surname2": "hola",
+      "rol": "estudiante",
+      "curso": "tecnico",
+      "clase": "2A",
+      "email": "pepa@gmail.com"
+    }
+  ]
+}

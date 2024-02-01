@@ -6,12 +6,12 @@ import '../PageAdmin/PageAdmin.css'
 
 const PageAdmin = () => {
   return (
-    < section className='page_body'>
+    < main className='page_body'>
     
       <FormList />
       <TableList />
       
-    </section>
+    </main>
   )
 }
 
