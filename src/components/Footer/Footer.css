@@ -5,7 +5,7 @@
     font-family: 'Verdana', 'sans-serif';
     height: 80px;
     font-weight: lighter;
-    margin-top: 50px;
+    /* margin-top: 50px; */
 }
 
 
@@ -74,4 +74,12 @@
 #comment3b img {
     width: 20px;
     height: 20px;
+}
+
+@media screen and (max-width: 430px) {
+
+   
+   
+
+
 }
