@@ -1,16 +1,6 @@
 {
   "users": [
     {
-      "id": "6e47",
-      "name": "Marianna",
-      "surname1": "Esteban",
-      "surname2": "Gonzalez",
-      "rol": "Administrativo",
-      "curso": "WebfullStack",
-      "clase": "1A",
-      "email": "marianna@gmail.com"
-    },
-    {
       "id": "3eeb",
       "name": "Esperanza",
       "surname1": "Guitierrez",
@@ -29,6 +19,16 @@
       "curso": "Informática",
       "clase": "3B",
       "email": "blankdgonzfigue@gmail.com"
+    },
+    {
+      "id": "dc0b",
+      "name": " Carmen",
+      "surname1": "Estigarribia",
+      "surname2": "Garcia",
+      "rol": "Estudiante",
+      "curso": " Web",
+      "clase": "2A",
+      "email": "carmen@gmail.com"
     }
   ]
 }

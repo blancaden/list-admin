@@ -6,6 +6,7 @@
     height: 80px;
     font-weight: lighter;
     /* margin-top: 50px; */
+    
 }
 
 
@@ -76,10 +77,3 @@
     height: 20px;
 }
 
-@media screen and (max-width: 430px) {
-
-   
-   
-
-
-}

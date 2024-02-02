@@ -86,4 +86,10 @@
   
 } 
 
+.btnDelete{
+  background-color: #95D1CC;
+  border-radius: 10px;
+  border: none;
+  font-size: 15px;
+}
 

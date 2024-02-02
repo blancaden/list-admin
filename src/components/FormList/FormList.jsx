@@ -207,7 +207,7 @@ const FormList = () => {
               <td>{user.clase}</td>
               <td>{user.email}</td>
               <td>
-              <button onClick={() => handleDeleteUser(user.id)}>Eliminar</button>
+              <button className='btnDelete' onClick={() => handleDeleteUser(user.id)}>Delete</button>
               
             </td>
             </tr>
