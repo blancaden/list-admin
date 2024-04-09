@@ -24,7 +24,7 @@ const HomeView = ({ setIsLogoutVisible }) => {
                 </section>
 
                 <section class="college" >
-                    <img src="img/image 4.svg" alt="college-photo" />
+                    <img src="img/image4.svg" alt="college-photo" />
                 </section>
 
                 <section className="login" >
