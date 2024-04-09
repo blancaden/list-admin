@@ -17,7 +17,7 @@ const HomeView = ({ setIsLogoutVisible }) => {
             <section className="main">
 
                 <section className="school-name-main" >
-                    <div className="title-image" ><img src="img/title-main.png" alt="santa-tecla" /></div>
+                    <div className="title-image" ><img src="./img/title-main.png" alt="santa-tecla" /></div>
                     <div className="person-list"><img src="img/person-list.svg" alt="person-list" />
                         <p>Administrador de listas para docentes</p>
                     </div>
